@@ -27,4 +27,4 @@ jobs:
         context: .
         file: ./Dockerfile
         push: true
-        tags: orchidHYE/nodejs-github-action:${{ env.CURRENT_TIME }}
+        tags: hyejishin/nodejs-github-action:${{ env.CURRENT_TIME }}
